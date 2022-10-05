@@ -86,7 +86,7 @@
 @media(min-height:851px){
     .flex{
         border:2px solid red;
-        height:1000px;
+        height:2000px;
     }
 }
 @media(max-width:393px){
@@ -94,7 +94,6 @@
         margin-top: 300px;
         width:500px;
         height:700px;
-        margin-bottom:300px;
     }
 }
 
