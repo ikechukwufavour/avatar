@@ -86,17 +86,11 @@
 @media(min-height:851px){
     .flex{
         border:2px solid red;
-        height:2000px;
+        height:1500px;
     }
-}
-@media(max-width:393px){
     .b{
-        margin-top: 300px;
-        width:500px;
-        height:700px;
-    }
+    width:400px;
+    height:600px;
 }
-
-
 
 
