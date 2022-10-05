@@ -85,16 +85,15 @@
 }
 @media(min-height:851px){
     .flex{
-        margin-top: 200px;
         border:2px solid red;
         height:1000px;
     }
 }
 @media(min-width:393px){
     .b{
-        margin-top: 600px;
-        width:400px;
-        height:600px;
+        margin-top: 300px;
+        width:500px;
+        height:700px;
     }
 }
 
