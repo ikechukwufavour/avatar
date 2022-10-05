@@ -9,6 +9,7 @@
     align-items: center;
     flex-direction: column;
     height:700px;
+    background-color: hsl(216, 50%, 30%);
 }
 .b{
     border: 1px solid hsl(215, 54%, 11%);
@@ -82,6 +83,14 @@
     padding-top: 10px;
     padding-bottom: 15px;
 }
+@media(max-width:393px){
+    .flex{
+        height:851px;
+    }
+
+}
+
+
 
 
 
