@@ -89,7 +89,7 @@
         height:1000px;
     }
 }
-@media(min-width:393px){
+@media(max-width:393px){
     .b{
         margin-top: 300px;
         width:400px;
