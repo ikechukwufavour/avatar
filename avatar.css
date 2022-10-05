@@ -84,7 +84,7 @@
 }
 @media(max-width:393px){
     .flex{
-        height:1500px;
+        height:auto;
     }
 
 }
